@@ -8,7 +8,7 @@ This is a course directory for programming language course part_A from universit
 
 ## Note for homework
 
-Note for homework1
+[Note for homework1](./Homework1/Note.md)
 
 
 
