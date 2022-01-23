@@ -237,8 +237,6 @@ fun rev2 lst =
 
 ## Hints and Gotchas for Homework 2
 
-## Hints and Gotchas for Homework 2
-
 Contributed by Charilaos Skiadas
 
 ### Notes on the material 
